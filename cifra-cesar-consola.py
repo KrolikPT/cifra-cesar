@@ -71,7 +71,7 @@ def decrypt():
                 else:    
                     decrypted_text += letters[(pos_letters + pos)]
                                            
-        print(decrypted_text)
+        print("\n-> %s <-" % (decrypted_text))
         decrypted_text = ""
         pos += 1    
         attempts -= 1
