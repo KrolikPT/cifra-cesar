@@ -1,8 +1,8 @@
-# Cifra de César em modo consola
+# Cifra de César
 
 NOTA: Não usar números nem símbolos, usar apenas letras e espaços como texto.
 
-USO: python cifra-cesar-consola.py
+USO: python cifra-cesar.py
 
 Irá abrir um menu com as opções de encriptar e desencriptar o texto.
 
